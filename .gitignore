@@ -1,0 +1,24 @@
+# Default ignored files
+/workspace.xml
+
+*.class
+# Package Files #
+*.war
+*.ear
+*.zip
+*.iml
+*.log
+.html
+.project
+.metadata
+target/**
+tmp/**
+tmp/**/*
+*.tmp
+target\
+*/target/*
+*/target/**
+*/.idea/*
+*/.idea/**
+.idea/**
+.idea
